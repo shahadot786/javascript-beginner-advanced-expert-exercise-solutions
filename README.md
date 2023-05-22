@@ -1,4 +1,4 @@
-# Javascript-beginner-advanced-expert-exercise-solutions
+# Javascript-Exercise-Solutions
 ## Beginners
 ### Exercise-1:
 #### Swap the values of 2 variables
